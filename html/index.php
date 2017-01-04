@@ -23,7 +23,7 @@
 	<div class="row">
 		<div class="col-md-1">&nbsp;</div>
 	        <div class="col-md-4 text-right">
-			<a href="#" onclick="ctrl_script('start_cam1.php')" class="btn btn-lg btn-info btn-block" role="button">Kamera 1 - Laser</a>
+			<a href="#" onclick="ctrl_script('start_cam3.php')" class="btn btn-lg btn-info btn-block" role="button">Kamera 3 - Laser</a>
 	        </div>
 		<div class="col-md-2">&nbsp;</div>
 	        <div class="col-md-4">
@@ -40,7 +40,7 @@
                 </div>
 		<div class="col-md-2">&nbsp;</div>
                 <div class="col-md-4">
-			<a href="#" onclick="ctrl_script('shutdown.php')" class="btn btn-lg btn-danger btn-block" role="button">Herunterfahren</a>
+			<a href="confirm.php" class="btn btn-lg btn-danger btn-block" role="button">Herunterfahren</a>
                 </div>
         </div>
 
